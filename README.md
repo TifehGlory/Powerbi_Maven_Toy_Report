@@ -12,7 +12,7 @@
 
 ## Project Overview
 This project evaluates sales and inventory data from Maven Toy Store, a retail chain in Mexico, to uncover actionable insights for optimizing profitability, store performance, and inventory management. Using Microsoft Power BI, key trends and patterns were analyzed to support data-driven decision-making.
-#
+
 ## Objective
 The primary goal of this analysis is to evaluate Maven Toy Store’s sales performance and profitability to support data-driven business decisions. Key focus areas include:
 - Store Performance Analysis
@@ -21,8 +21,8 @@ The primary goal of this analysis is to evaluate Maven Toy Store’s sales perfo
 - Actionable Recommendations
 
  <img width="895" height="501" alt="image" src="https://github.com/user-attachments/assets/c9c25312-6bec-44ca-9de1-8ad555ecb13d" />
- 
 
+ 
   ## Key Business Questions 
 1. Which product categories yield the highest profits, and how do these trends vary across different store locations?
 2. Are there identifiable seasonal sales patterns?
@@ -56,9 +56,8 @@ Importation Process: Data was ingested using Power BI’s Excel connector.
 To enable accurate analysis, raw data was structured into a relational model using Power BI which automatically detected key relationships between tables, organizing them into ***a star schema for optimal performance***.
 
 
-1. Fact Table: Sales Table, Inventory
-2. Dimension Tables: Products, Stores, and Dates
-*Notably, Playdoh Can ranks high in sales volume but not in profitability.*
+<img width="1030" height="468" alt="image" src="https://github.com/user-attachments/assets/41e6ff47-e17d-4be5-a7ab-b02467e3d4fa" />
+
 
 ## Key Insights
 
@@ -88,6 +87,10 @@ Highest Profit-Generating Products:
 - Magic Sand - 61K units
 
   <img width="561" height="335" alt="image" src="https://github.com/user-attachments/assets/aaa9a53d-218d-4c2b-8136-b4623ba35b4f" />
+
+1. Fact Table: Sales Table, Inventory
+2. Dimension Tables: Products, Stores, and Dates
+*Notably, Playdoh Can ranks high in sales volume but not in profitability.*
 
 
 ### Store & Location Analysis 
@@ -125,7 +128,9 @@ Highest Profit-Generating Products:
    - 2017: Sales peaked towards year-end.
    - 2018: Stronger sales from February–July, with March leading.
   
+ 
    <img width="875" height="246" alt="image" src="https://github.com/user-attachments/assets/76aef39d-f41b-4b4b-9b22-42dfe928d598" />
+
   
 ### Inventory Analysis 
 *Current Inventory Value & Turnover:*
