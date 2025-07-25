@@ -1,7 +1,5 @@
 # Powerbi_Maven_Toy_Report
-## Project Overview
-This project evaluates sales and inventory data from Maven Toy Store, a retail chain in Mexico, to uncover actionable insights for optimizing profitability, store performance, and inventory management. Using Microsoft Power BI, key trends and patterns were analyzed to support data-driven decision-making.
-## Table of Content
+# Table of Content
 
 - [Project Overview](#project-overview)
 - [Objective](#objectives)
@@ -11,13 +9,19 @@ This project evaluates sales and inventory data from Maven Toy Store, a retail c
 - [Data Modeling](#data-modeling)
 - [Key Insights](#key-insights)
 - [Summary & Recommendations](#summary-&-recommendations)
-- [References](#references)
+
+## Project Overview
+This project evaluates sales and inventory data from Maven Toy Store, a retail chain in Mexico, to uncover actionable insights for optimizing profitability, store performance, and inventory management. Using Microsoft Power BI, key trends and patterns were analyzed to support data-driven decision-making.
+#
 ## Objective
 The primary goal of this analysis is to evaluate Maven Toy Store’s sales performance and profitability to support data-driven business decisions. Key focus areas include:
 - Store Performance Analysis
 - Seasonal Sales Trends
 - Product Profitability & Sales Effectiveness
 - Actionable Recommendations
+
+ <img width="895" height="501" alt="image" src="https://github.com/user-attachments/assets/c9c25312-6bec-44ca-9de1-8ad555ecb13d" />
+ 
 
   ## Key Business Questions 
 1. Which product categories yield the highest profits, and how do these trends vary across different store locations?
@@ -83,10 +87,16 @@ Highest Profit-Generating Products:
 - Deck of Cards - 84K units
 - Magic Sand - 61K units
 
+  <img width="561" height="335" alt="image" src="https://github.com/user-attachments/assets/aaa9a53d-218d-4c2b-8136-b4623ba35b4f" />
+
+
 ### Store & Location Analysis 
 1. *Which locations generate the highest profits?*
    - Downtown stores lead with over $2M in profits.
    - Airport stores yield the lowest profit at $378K.
+  
+     <img width="230" height="159" alt="image" src="https://github.com/user-attachments/assets/4ac2e8e7-0e41-444a-8dfa-7a809078c59d" />
+
 
 2. *Most Profitable Stores:*
   - Maven Toys Ciudad de Mexico 2 - $170K
@@ -114,7 +124,9 @@ Highest Profit-Generating Products:
 4. *Yearly Trends:*
    - 2017: Sales peaked towards year-end.
    - 2018: Stronger sales from February–July, with March leading.
-
+  
+   <img width="875" height="246" alt="image" src="https://github.com/user-attachments/assets/76aef39d-f41b-4b4b-9b22-42dfe928d598" />
+  
 ### Inventory Analysis 
 *Current Inventory Value & Turnover:*
 - Total Inventory Value: $300K
